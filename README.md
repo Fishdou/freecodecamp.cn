@@ -59,8 +59,8 @@ We welcome pull requests from freeCodeCamp campers (our students) and seasoned J
 
 License
 -------
-
-Copyright (c) 2017 freeCodeCamp.
+这是
+版权所有（c）2017 freeCodeCamp。一个测试
 
 The content of this repository bound by the following LICENSE(S)
 - The computer software is licensed under the [BSD-3-Clause](./LICENSE.md).
